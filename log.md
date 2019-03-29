@@ -31,3 +31,12 @@ The daily log of my **#301DaysOfCode** challenge.
 
 **Link to work:** No Link yet!
 
+### Day 4: 03/28/2019
+
+**Today's Progress:** Took the time to read the React Documents and got my delete function working with the shopping list
+
+
+**Thoughts:** React is something else. I just want to be able to code react 8 hours a day and be in a team. One day, I hope!! 
+
+**Link to work:** No Link yet!
+
